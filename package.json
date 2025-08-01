@@ -1,0 +1,20 @@
+{
+  "name": "crud-simples",
+  "version": "1.0.0",
+  "description": "Crud simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doug1609/Crud-simples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doug1609/Crud-simples/issues"
+  },
+  "homepage": "https://github.com/doug1609/Crud-simples#readme"
+}
